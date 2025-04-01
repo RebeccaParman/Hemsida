@@ -1,3 +1,4 @@
 streamlit==1.44.0
+nicegui==2.13.0
 
 
