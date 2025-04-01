@@ -1,4 +1,3 @@
-git a2wsgi==1.10.8
 adbc_driver_manager==1.5.0
 adbc_driver_postgresql==1.5.0
 adbc_driver_sqlite==1.5.0
